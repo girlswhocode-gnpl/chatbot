@@ -1,2 +1,2 @@
-# Python Chatbot
+# Chatbot in Python
 > instructions coming soon...
